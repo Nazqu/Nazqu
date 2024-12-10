@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👨‍🎓 College Student | Sophomore 📚
 
-<!--
-**Nazqu/Nazqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm a **Sophomore** at college, I'm all about creating and designing on the web, both the front-end and back-end.
 
-Here are some ideas to get you started:
+## 💻 What I Do:
+- 🌐 **Web Design** (Frontend & Backend)
+- 🐍 Currently learning **Python** & **HTMX**
+- ⏳ Code whenever I get some free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills & Technologies:
+- **Frontend:** HTML, CSS, JavaScript, React.js ⚛️
+- **Backend:** Node.js, Express.js 💾
+- **Tools:** Git, VSCode, Docker 🛠️
+
+## 📚 In Progress:
+- 👨‍🏫 Taking advanced courses on Python.
+- 🔧 Building my own personal projects.
