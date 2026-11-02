@@ -1,17 +1,18 @@
-# 👨‍🎓 College Student | Sophomore 📚
+# 👨‍🎓 Cyber Security Student | Developer
 
-Hey there! I'm a **Sophomore** at college, I'm all about creating and designing on the web, both the front-end and back-end.
+Hello. I'm an undergraduate Cyber Security student, I do things about creating and designing on the web and reverse engineering stuff.
 
 ## 💻 What I Do:
-- 🌐 **Web Design** (Frontend & Backend)
-- 🐍 Currently learning **Python** & **HTMX**
-- ⏳ Code whenever I get some free time
+- 🌐 **Web Development** (Frontend & Backend)
+- 🐍 Currently learning **Python**
+- ⏳ Waste my **time** sometimes
 
 ## 💡 Skills & Technologies:
-- **Frontend:** HTML, CSS, JavaScript, React.js ⚛️
-- **Backend:** Node.js, Express.js 💾
-- **Tools:** Git, VSCode, Docker 🛠️
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express.js
+- **Tools:** Git, Github VS Code, Docker
 
 ## 📚 In Progress:
-- 👨‍🏫 Taking advanced courses on Python.
-- 🔧 Building my own personal projects.
+- Learning more about cybersecurity
+- Getting better at Python and DSA
+- Working on personal projects
